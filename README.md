@@ -22,3 +22,19 @@ Borboletas surgiu com o intuito de contribuir com a autonomia financeira de pess
 ### Objetivo
 
 O preconceito, a discriminação e a violência referente à identidade de gênero são observadas na vida da população transgênero em diversos aspectos e, inclusive, no ambiente educacional e no mercado de trabalho. Reconhecer as diferenças e ampará-las é fundamental para incluir os grupos de minorias que compõem nossa sociedade.
+
+<div align="left">
+	<p>Tecnologias utilizadas</p>
+	<table>
+			<tr>
+        <td><img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-plain-wordmark.svg" alt="Java"></td>
+        <td><img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/spring/spring-original-wordmark.svg" alt="SpringBoot"></td>
+        <td><img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"></td>
+        <td><img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgres"></td>
+        <td><img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/angularjs/angularjs-original.svg" alt="Angular"></td>
+        <td><img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-original-wordmark.svg" alt="HTML5"></td>
+        <td><img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-original-wordmark.svg" alt="CSS3"></td>
+        <td><img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap"></td>
+			</tr>
+	</table>
+</div>
