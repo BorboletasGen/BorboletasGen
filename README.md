@@ -23,8 +23,8 @@ Borboletas surgiu com o intuito de contribuir com a autonomia financeira de pess
 
 O preconceito, a discriminação e a violência referente à identidade de gênero são observadas na vida da população transgênero em diversos aspectos e, inclusive, no ambiente educacional e no mercado de trabalho. Reconhecer as diferenças e ampará-las é fundamental para incluir os grupos de minorias que compõem nossa sociedade.
 
+### Tecnologias utilizadas
 <div align="left">
-	<p>Tecnologias utilizadas</p>
 	<table>
 			<tr>
         <td><img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-plain-wordmark.svg" alt="Java"></td>
