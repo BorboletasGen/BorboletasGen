@@ -42,24 +42,9 @@ O preconceito, a discriminação e a violência referente à identidade de gêne
 ### Time de Desenvolvimento
 
 <div align="left">
-	<div class="avatar mx-auto border-1">
-                    <img src="https://i.imgur.com/7mty7ml.jpg" class="img-fluid rounded-circle z-depth-1"
-                        alt="Sample avatar">
-                </div>
-                <h5 class="font-weight-bold mt-4 mb-3 text-center">Jaqueline Camilo Dias
-                </h5>
-                <ul class="list-unstyled mb-0 d-flex justify-content-center">
-                    <li>
-                        <!-- Github -->
-                        <a class="p-2 fa-lg ins-ic" href="https://github.com/jaque20050">
-                            <i class="fab fa-github blue-text"> </i>
-                        </a>
-                    </li>
-                    <li>
-                        <!-- LinkdIn -->
-                        <a class="p-2 fa-lg ins-ic" href="https://www.linkedin.com/in/jaqueline-camilo-games/">
-                            <i class="fab fa-linkedin"></i>
-                        </a>
-                    </li>
-                </ul>
+	<div>
+		<h3>Jaqueline</h3>
+		<p><em>Linkedin:</em> https://www.linkedin.com/in/jaqueline-camilo-games/</p>
+		<p><em>GitHub:</em> https://github.com/jaque20050</p>
+	</div>
 </div>
