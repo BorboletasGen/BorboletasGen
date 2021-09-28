@@ -38,3 +38,8 @@ O preconceito, a discriminação e a violência referente à identidade de gêne
 			</tr>
 	</table>
 </div>
+
+### Time de Desenvolvimento
+<div align="left">
+	
+</div>
