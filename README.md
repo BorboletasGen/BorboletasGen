@@ -1,4 +1,4 @@
-### Hi there 👋
+## Borboletas E-commerce
 
 <!--
 **BorboletasGen/BorboletasGen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Como o Borboletas surgiu
+
+Borboletas surgiu com o intuito de contribuir com a autonomia financeira de pessoas transgêneras, baseando-se na ODS10 - Redução da Desigualdade, o e-commerce visa ajudar através da divulgação de trabalhos e produtos.
+
+### Objetivo
+
+O preconceito, a discriminação e a violência referente à identidade de gênero são observadas na vida da população transgênero em diversos aspectos e, inclusive, no ambiente educacional e no mercado de trabalho. Reconhecer as diferenças e ampará-las é fundamental para incluir os grupos de minorias que compõem nossa sociedade.
