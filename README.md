@@ -47,4 +47,29 @@ O preconceito, a discriminação e a violência referente à identidade de gêne
 		<p><em>Linkedin:</em> https://www.linkedin.com/in/jaqueline-camilo-games/</p>
 		<p><em>GitHub:</em> https://github.com/jaque20050</p>
 	</div>
+	<div>
+		<h3>Jaqueline</h3>
+		<p><em>Linkedin:</em> https://www.linkedin.com/in/jaqueline-camilo-games/</p>
+		<p><em>GitHub:</em> https://github.com/jaque20050</p>
+	</div>
+		<div>
+		<h3>Jaqueline</h3>
+		<p><em>Linkedin:</em> https://www.linkedin.com/in/jaqueline-camilo-games/</p>
+		<p><em>GitHub:</em> https://github.com/jaque20050</p>
+	</div>
+	<div>
+		<h3>Jaqueline</h3>
+		<p><em>Linkedin:</em> https://www.linkedin.com/in/jaqueline-camilo-games/</p>
+		<p><em>GitHub:</em> https://github.com/jaque20050</p>
+	</div>
+	<div>
+		<h3>Jaqueline</h3>
+		<p><em>Linkedin:</em> https://www.linkedin.com/in/jaqueline-camilo-games/</p>
+		<p><em>GitHub:</em> https://github.com/jaque20050</p>
+	</div>
+	<div>
+		<h3>Jaqueline</h3>
+		<p><em>Linkedin:</em> https://www.linkedin.com/in/jaqueline-camilo-games/</p>
+		<p><em>GitHub:</em> https://github.com/jaque20050</p>
+	</div>
 </div>
