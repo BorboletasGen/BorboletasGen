@@ -40,14 +40,6 @@ O preconceito, a discriminação e a violência referente à identidade de gêne
 </div>
 
 ### Time de Desenvolvimento
-<head>
-	<style>
-		.teste {
-			color:red;
-		}
-	</style>
-<head>	
-	<body>
 <div align="left">
 	<div>
 		<h3 class="teste" style="color:red;">Jaqueline</h3>
@@ -70,9 +62,9 @@ O preconceito, a discriminação e a violência referente à identidade de gêne
 		<p><em>GitHub:</em> https://github.com/jaque20050</p>
 	</div>
 	<div>
-		<h3>Jaqueline</h3>
-		<p><em>Linkedin:</em> https://www.linkedin.com/in/jaqueline-camilo-games/</p>
-		<p><em>GitHub:</em> https://github.com/jaque20050</p>
+		<h3>Lucas Lauro</h3>
+		<p><em>Linkedin:</em> https://www.linkedin.com/in/lucas-l-3a576489/</p>
+		<p><em>GitHub:</em> https://github.com/llauros</p>
 	</div>
 	<div>
 		<h3>Jaqueline</h3>
@@ -80,4 +72,3 @@ O preconceito, a discriminação e a violência referente à identidade de gêne
 		<p><em>GitHub:</em> https://github.com/jaque20050</p>
 	</div>
 </div>
-		</body>
